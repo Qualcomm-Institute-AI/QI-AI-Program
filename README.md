@@ -1,88 +1,66 @@
 # QI AI Program
 
-**Qualcomm Institute (QI), University of California, San Diego (UCSD)**
+**Digital Archive Index — Qualcomm Institute (QI) AI Programs, University of California, San Diego (UCSD)**
 
-The **QI AI Program** repository is the digital archive and index of AI programs conducted through the Qualcomm Institute (QI) at the University of California, San Diego (UCSD).
+This repository is the central digital archive and index for QI's AI education, research, and entrepreneurship programs. It organizes each program cohort, its final hackathon, and links to participating student teams' project repositories.
 
-The archive documents QI AI programs, their corresponding final hackathons, and participating student projects across different years and terms.
-
----
-
-## 🗂️ Program Archive
-
-The archive is organized by **year → term → program**.
-
-### 2026
-
-#### Winter
-
-* [16th QI AI Research-focused Project](./2026/Winter/16th-QI-AI-Research-focused-Project)
-
-#### Summer
-
-* [17th QI AI Entrepreneurship Program](./2026/Summer/17th-QI-AI-Entrepreneurship-Program)
+For the broader mission, program history, and leadership of the QI AI archive, see the [Qualcomm-Institute-AI organization profile](https://github.com/Qualcomm-Institute-AI).
 
 ---
 
-### 2027
+## 📁 How This Archive Is Organized
 
-#### Winter
+The archive is organized hierarchically by **year → term → program → final hackathon → teams**.
 
-*Archive coming soon.*
+Each program has its own folder containing program documentation and, when applicable, the corresponding final hackathon folder. Team project information is documented within the hackathon folder and links out to each team's own source-code repository.
 
-#### Summer
-
-*Archive coming soon.*
-
----
-
-### 2028
-
-#### Winter
-
-*Archive coming soon.*
-
-#### Summer
-
-*Archive coming soon.*
-
----
-
-## 🏆 Final Hackathons
-
-Each QI AI program may include a corresponding final hackathon or project showcase.
-
-The hackathon archive is maintained within its corresponding program archive so that each program and its final project showcase remain directly connected.
-
----
-
-## 👥 Student Projects
-
-Student projects are documented within the corresponding program and hackathon archives.
-
-The QI AI Program repository serves as the central archive and index, while individual team repositories remain the primary locations for source code, software development, and version-controlled technical materials.
-
----
-
-## 🔗 External Resources
-
-Program and project documentation may also be maintained through external platforms, including Kaggle, GitHub, cloud-hosted demonstrations, research repositories, and other public resources.
-
-External resources are linked from the corresponding program, hackathon, and team project archives.
-
----
-
-## 📚 Archive Organization
-
-```text
+```
 QI AI Program
+│
+├── 2016                                    (Legacy: IoT era)
+│   ├── Winter
+│   │   └── 1st QI IoT Platform Development Project
+│   │       └── README.md
+│   └── Summer
+│       └── 2nd QI IoT Platform Development Project
+│           └── README.md
+│
+├── 2017 – 2020                             (3rd – 8th, same pattern as above)
+│
+├── 2022 – 2024 Summer                      (9th – 13th QI AI Research-focused Project)
+│
+├── 2025
+│   ├── Winter
+│   │   └── 14th QI AI Research-focused Project
+│   │       ├── README.md
+│   │       └── QI AI Research Hackathon
+│   │           ├── README.md
+│   │           └── teams
+│   │
+│   └── Summer
+│       └── 15th QI AI Entrepreneurship Program
+│           ├── README.md
+│           └── QI AI Entrepreneurship Hackathon
+│               ├── README.md
+│               └── teams
 │
 ├── 2026
 │   ├── Winter
 │   │   └── 16th QI AI Research-focused Project
+│   │       ├── README.md
+│   │       └── QI AI Research Hackathon
+│   │           ├── README.md
+│   │           └── teams
 │   │
 │   └── Summer
 │       └── 17th QI AI Entrepreneurship Program
+│           ├── README.md
+│           └── QI AI Entrepreneurship Hackathon
+│               ├── README.md
+│               └── teams
+│                   ├── team-a
+│                   ├── team-b
+│                   └── ...
 │
 ├── 2027
 │   ├── Winter
@@ -93,10 +71,63 @@ QI AI Program
     └── Summer
 ```
 
+Each program-level `README.md` documents the program's schedule, objectives, and participants. Each hackathon `README.md` documents the final showcase, results, and awards, and links to each team's writeup and repository under `teams/`.
+
+---
+
+## 🗂️ Archive Index
+
+| Year | Term | Program | Hackathon | Status |
+|---|---|---|---|---|
+| 2026 | Summer | [17th QI AI Entrepreneurship Program](2026/Summer/17th%20QI%20AI%20Entrepreneurship%20Program/README.md) | [QI AI Entrepreneurship Hackathon](2026/Summer/17th%20QI%20AI%20Entrepreneurship%20Program/QI%20AI%20Entrepreneurship%20Hackathon/README.md) | ✅ Complete (34 students & 7 teams) |
+| 2026 | Winter | 16th QI AI Research-focused Project | QI AI Research Hackathon | 🚧 In progress |
+| 2025 | Summer | 15th QI AI Entrepreneurship Program | QI AI Entrepreneurship Hackathon | ⏳ Planned |
+| 2025 | Winter | 14th QI AI Research-focused Project | QI AI Research Hackathon | ⏳ Planned |
+| 2022 – 2024 | — | 9th – 13th QI AI Research-focused Project | — | ⏳ Planned |
+| 2016 – 2020 | — | 1st – 8th QI IoT Platform Development Project | — | ⏳ Planned (program-level only) |
+
+> **Archive coverage note:** The 17th cohort (Summer 2026) is the first complete entry in this archive, including full team-level hackathon documentation. Earlier cohorts (1st–16th) will be added progressively as records are compiled. IoT-era cohorts (1st–8th, 2016–2020) are documented at the program level only, such as schedule, participants, and final showcase results, where available, since teams did not produce individually distinct deliverables during that era and per-team technical records were not maintained.
+
+---
+
+## 👥 Student Team Projects
+
+Student project source code and software implementations are maintained in each team's own GitHub repository. This archive documents each team's project (problem, approach, results, and outcomes) and links to their source-code repository, dataset, demonstration, and writeup.
+
+This repository is the central archive and index; individual team repositories remain the primary location for source code, software development, and version-controlled technical materials.
+
+---
+
+## 🔗 External Archives
+
+Detailed program and project documentation is currently maintained through Kaggle:
+
+- [17th QI AI Entrepreneurship Program – Summer 2026](https://www.kaggle.com/code/seokheoncho/17th-qi-ai-entrepreneurship-program-summer-2026) — Program
+    - [QI AI Entrepreneurship Hackathon – Summer 2026](https://www.kaggle.com/competitions/qi-ai-hackathon-summer-2026/overview) — Hackathon & Team Writeups
+
+GitHub serves as the primary technical repository and project index for source code, datasets, documentation, and reproducible project materials, while Kaggle provides public-facing program, hackathon showcases, team project writeups, and detailed project documentation.
+
+---
+
+## ℹ️ About Participant Records
+
+Program-level pages in this archive document participant names and affiliations, with program and hackathon results summarized in aggregate. Detailed, participant-level information (such as certification outcomes) is available in the corresponding program and hackathon pages on Kaggle — see [External Archives](#-external-archives) above.
+
+---
+
+## 📄 License
+
+Program and hackathon documentation in this repository is made available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), unless noted otherwise. Each team's source code, maintained in its own repository, is licensed independently by that team.
+
 ---
 
 ## 👨‍🏫 Program Leadership
 
-**Seokheon Cho, Ph.D.**
-Qualcomm Institute
+**Seokheon Cho, Ph.D.**  
+Principal Investigator  
+Qualcomm Institute  
 University of California, San Diego
+
+---
+
+For the full program history and mission of the QI AI archive, see the [Qualcomm-Institute-AI organization profile](https://github.com/Qualcomm-Institute-AI).
