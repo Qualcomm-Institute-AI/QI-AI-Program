@@ -4,9 +4,8 @@
 
 📅 **Program Dates:** June 29 – July 24, 2026 (four weeks)  
 🏆 **Final Hackathon:** [QI AI Entrepreneurship Hackathon – Summer 2026](./QI%20AI%20Entrepreneurship%20Hackathon/README.md)  
-📚 **Detailed Program Record:** [Kaggle Notebook](https://www.kaggle.com/code/seokheoncho/17th-qi-ai-entrepreneurship-program-summer-2026)
 
-This page is a summary record for the 17th QI AI Entrepreneurship Program. Full program narrative, participant-level detail, and certification outcomes are maintained in the linked Kaggle notebook; this page indexes the program within the GitHub archive and links to the final hackathon and student team projects.
+This page is a summary record for the 17th QI AI Entrepreneurship Program. Full program narrative, participant-level detail, and certification outcomes are maintained on Kaggle (see [Related Pages](#related-pages) below); this page indexes the program within the GitHub archive and links to the final hackathon and student team projects.
 
 ---
 
@@ -146,7 +145,7 @@ Final results, awards, and individual team writeups (problem definition, AI/ML a
   - Team B received the **Data-Driven Insights** award
 - **[Hack-Nation 2026](https://hack-nation.ai/)** *(external global AI hackathon)*: all 34 participants took part
 
-Detailed, participant-level information is documented in the [Kaggle program notebook](https://www.kaggle.com/code/seokheoncho/17th-qi-ai-entrepreneurship-program-summer-2026).
+Detailed, participant-level information is documented on Kaggle — (see [Related Pages](#related-pages) below).
 
 ---
 
@@ -167,6 +166,8 @@ University of California, San Diego
 
 ## Related Pages
 
-- 🏆 [QI AI Entrepreneurship Hackathon – Summer 2026](./QI%20AI%20Entrepreneurship%20Hackathon/README.md) — final showcase, results, and team writeups
-- 📚 [Kaggle Program Notebook](https://www.kaggle.com/code/seokheoncho/17th-qi-ai-entrepreneurship-program-summer-2026) — full program record
-- 🗂️ [QI AI Program Archive](../../../README.md) — full archive index
+- **17th QI AI Entrepreneurship Program – Summer 2026 (summary record)** — this page
+  - [17th QI AI Entrepreneurship Program – Summer 2026 (full contents) → Kaggle](https://www.kaggle.com/code/seokheoncho/17th-qi-ai-entrepreneurship-program-summer-2026)
+- [QI AI Entrepreneurship Hackathon – Summer 2026 (summary record)](./QI%20AI%20Entrepreneurship%20Hackathon/README.md)
+  - [QI AI Entrepreneurship Hackathon – Summer 2026 (full contents) → Kaggle](https://www.kaggle.com/competitions/qi-ai-hackathon-summer-2026/overview)
+- 🗂️ [QI AI Program Archive (GitHub)](../../../README.md) — full archive index
