@@ -86,13 +86,6 @@ Each project was evaluated across 10 criteria (10 points each, 100 points total)
 
 ## Related Pages
 
-- 🎓 [17th QI AI Entrepreneurship Program – Summer 2026](../README.md) — full program record
-- 📚 [Kaggle Hackathon Page](https://www.kaggle.com/competitions/qi-ai-hackathon-summer-2026/overview) — full results, rubric, and team writeups
-- 🗂️ [QI AI Program Archive](../../../../README.md) — full archive index
-
-
-## Related Pages
-
 - [17th QI AI Entrepreneurship Program – Summer 2026 (summary record)](../README.md)
   - [17th QI AI Entrepreneurship Program – Summer 2026 (full contents) → Kaggle](https://www.kaggle.com/code/seokheoncho/17th-qi-ai-entrepreneurship-program-summer-2026)
 - **QI AI Entrepreneurship Hackathon – Summer 2026 (summary record)** — this page
