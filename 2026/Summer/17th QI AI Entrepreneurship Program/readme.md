@@ -2,8 +2,8 @@
 
 **Qualcomm Institute (QI), University of California, San Diego (UCSD)**
 
-📅 **Program Dates:** June 29 – July 24, 2026 (four weeks)
-🏆 **Final Hackathon:** [QI AI Entrepreneurship Hackathon – Summer 2026](./QI%20AI%20Entrepreneurship%20Hackathon/README.md)
+📅 **Program Dates:** June 29 – July 24, 2026 (four weeks)  
+🏆 **Final Hackathon:** [QI AI Entrepreneurship Hackathon – Summer 2026](./QI%20AI%20Entrepreneurship%20Hackathon/README.md)  
 📚 **Detailed Program Record:** [Kaggle Notebook](https://www.kaggle.com/code/seokheoncho/17th-qi-ai-entrepreneurship-program-summer-2026)
 
 This page is a summary record for the 17th QI AI Entrepreneurship Program. Full program narrative, participant-level detail, and certification outcomes are maintained in the linked Kaggle notebook; this page indexes the program within the GitHub archive and links to the final hackathon and student team projects.
@@ -25,9 +25,9 @@ During the Summer 2026 program, seven student teams followed a four-week project
 | Host | Qualcomm Institute, University of California, San Diego |
 | Duration | Four weeks (June 29 – July 24, 2026) |
 | Format | Team-based, hands-on experiential learning |
-| Student Teams | 7 |
 | Participants | 34 |
 | Program Completion | 100% (34 of 34) |
+| Student Teams | 7 |
 | Final Showcase | QI AI Entrepreneurship Hackathon – July 24, 2026 |
 | Cloud Platform | Google Cloud Platform (GCP) |
 | AI-Assisted Development | Claude Code |
