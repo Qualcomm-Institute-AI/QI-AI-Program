@@ -79,7 +79,7 @@ Each program-level `README.md` documents the program's schedule, objectives, and
 
 | Year | Term | Program | Hackathon | Status |
 |---|---|---|---|---|
-| 2026 | Summer | [17th QI AI Entrepreneurship Program](2026/Summer/17th%20QI%20AI%20Entrepreneurship%20Program/README.md) | [QI AI Entrepreneurship Hackathon](2026/Summer/17th%20QI%20AI%20Entrepreneurship%20Program/QI%20AI%20Entrepreneurship%20Hackathon/README.md) | ✅ Complete (34 students & 7 teams) |
+| 2026 | Summer | 17th QI AI Entrepreneurship Program | QI AI Entrepreneurship Hackathon | ✅ Complete (34 students & 7 teams) |
 | 2026 | Winter | 16th QI AI Research-focused Project | QI AI Research Hackathon | 🚧 In progress |
 | 2025 | Summer | 15th QI AI Entrepreneurship Program | QI AI Entrepreneurship Hackathon | ⏳ Planned |
 | 2025 | Winter | 14th QI AI Research-focused Project | QI AI Research Hackathon | ⏳ Planned |
@@ -87,6 +87,19 @@ Each program-level `README.md` documents the program's schedule, objectives, and
 | 2016 – 2020 | — | 1st – 8th QI IoT Platform Development Project | — | ⏳ Planned (program-level only) |
 
 > **Archive coverage note:** The 17th cohort (Summer 2026) is the first complete entry in this archive, including full team-level hackathon documentation. Earlier cohorts (1st–16th) will be added progressively as records are compiled. IoT-era cohorts (1st–8th, 2016–2020) are documented at the program level only, such as schedule, participants, and final showcase results, where available, since teams did not produce individually distinct deliverables during that era and per-team technical records were not maintained.
+
+### Links for Completed Entries
+
+GitHub hosts the summary record and technical index for each entry, while Kaggle hosts the full program and hackathon documentation, including detailed team project writeups. GitHub serves as the primary technical repository and project index for source code, datasets, documentation, and reproducible project materials. Kaggle provides public-facing program materials, hackathon showcases, team project writeups, and detailed project documentation. 
+
+Each entry below is listed only once. Its GitHub summary record is followed directly by the corresponding full-contents version on Kaggle, shown as an indented item to clearly distinguish the two versions. 
+
+- [17th QI AI Entrepreneurship Program – Summer 2026 (summary record)](2026/Summer/17th%20QI%20AI%20Entrepreneurship%20Program/README.md)
+  - [17th QI AI Entrepreneurship Program – Summer 2026 (full contents) → Kaggle](https://www.kaggle.com/code/seokheoncho/17th-qi-ai-entrepreneurship-program-summer-2026)
+- [QI AI Entrepreneurship Hackathon – Summer 2026 (summary record)](2026/Summer/17th%20QI%20AI%20Entrepreneurship%20Program/QI%20AI%20Entrepreneurship%20Hackathon/README.md)
+  - [QI AI Entrepreneurship Hackathon – Summer 2026 (full contents) → Kaggle](https://www.kaggle.com/competitions/qi-ai-hackathon-summer-2026/overview)
+
+As earlier cohorts are added to the archive, their summary record / full contents links will be listed here in the same format.
 
 ---
 
@@ -98,20 +111,9 @@ This repository is the central archive and index; individual team repositories r
 
 ---
 
-## 🔗 External Archives
-
-Detailed program and project documentation is currently maintained through Kaggle:
-
-- [17th QI AI Entrepreneurship Program – Summer 2026](https://www.kaggle.com/code/seokheoncho/17th-qi-ai-entrepreneurship-program-summer-2026) — Program
-    - [QI AI Entrepreneurship Hackathon – Summer 2026](https://www.kaggle.com/competitions/qi-ai-hackathon-summer-2026/overview) — Hackathon & Team Writeups
-
-GitHub serves as the primary technical repository and project index for source code, datasets, documentation, and reproducible project materials, while Kaggle provides public-facing program, hackathon showcases, team project writeups, and detailed project documentation.
-
----
-
 ## ℹ️ About Participant Records
 
-Program-level pages in this archive document participant names and affiliations, with program and hackathon results summarized in aggregate. Detailed, participant-level information (such as certification outcomes) is available in the corresponding program and hackathon pages on Kaggle — see [External Archives](#-external-archives) above.
+Program-level pages in this archive document participant names and affiliations, with program and hackathon results summarized in aggregate. Detailed, participant-level information (such as certification outcomes) is available in the corresponding program and hackathon pages on Kaggle — see [Links for Completed Entries](#links-for-completed-entries) above.
 
 ---
 
@@ -131,3 +133,4 @@ University of California, San Diego
 ---
 
 For the full program history and mission of the QI AI archive, see the [Qualcomm-Institute-AI organization profile](https://github.com/Qualcomm-Institute-AI).
+
